@@ -1,0 +1,11 @@
+# Initial declaration of the variable
+my_variable = 12
+print("Initial value of my_variable:", my_variable)
+
+# Redeclaring the variable with a new value
+my_variable = 24
+print("New value of my_variable after redeclaration:", my_variable)
+
+# Redeclaring the variable with a different data type
+my_variable = " string!"
+print("Value of my_variable after changing data type:", my_variable)
